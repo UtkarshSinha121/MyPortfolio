@@ -3,32 +3,30 @@ import { Col, Row } from "react-bootstrap";
 import {
   SiVisualstudiocode,
   SiPostman,
-  SiSlack,
   SiVercel,
-  SiMacos,
 } from "react-icons/si";
+import { FaGithub } from "react-icons/fa";
 
 function Toolstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
-        <SiMacos />
+        <SiVisualstudiocode />
+        <p className="TagSize">VS Code</p>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiVisualstudiocode />
+      <FaGithub />
+      <p className="TagSize">GitHub</p>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiPostman />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiSlack />
+        <p className="TagSize">Postman</p>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiVercel />
+        <p className="TagSize">Vercel</p>
       </Col>
-      {/* <Col xs={4} md={2} className="tech-icons">
-        <DiGit />
-      </Col> */}
+     
     </Row>
   );
 }

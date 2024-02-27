@@ -744,3 +744,8 @@ button:focus {
 .TagSize{
   font-size: 20px !important;
 }
+
+.project-img{
+  width: 100% !important;
+  height: 100% !important;
+}
