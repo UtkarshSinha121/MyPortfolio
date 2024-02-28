@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Utkarsh Sinha </span>
             from <span className="purple"> Lucknow, India.</span>
             <br />
-            I am currently pursuing <b className="purple">BTech</b> final year in <b className="
+            I am currently pursuing <b className="purple">BTech</b> in <b className="
             purple">Computer Science and Engineering</b> from SRMCEM Luckonw.
             <br />
             I've completed extensive training in the <b className="purple">MERN stack</b>, mastering technologies like <b className="purple"> MongoDB, Express.js, React.js, and Node.js</b>. 

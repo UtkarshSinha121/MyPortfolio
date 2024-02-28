@@ -20,7 +20,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-            I'm <b className="purple"> Utkarsh Sinha </b>, a final year student pursuing a BTech in Computer Science and Engineering with a keen interest in the dynamic world of IT.
+            I'm <b className="purple"> Utkarsh Sinha </b>, a final year student pursuing BTech in Computer Science and Engineering with a keen interest in the dynamic world of IT.
               <br />
               <br />I am fluent in classics like
               <i>
@@ -39,8 +39,8 @@ function Home2() {
               <br />
               <br />
               I've completed my training in  MERN stack, 
-              so I create projects with the help of <b className="purple">React.js, Node.js, Express </b> an <b className="purple">
-                   MongoDB
+              so I create projects with the help of <b className="purple">React.js, Node.js, Express </b> and <b className="purple">
+                   MongoDB.
                 </b>
              
               
